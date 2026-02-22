@@ -1,0 +1,4 @@
+Geometric Perspective on the Index Recovery of Tetrahedral Numbers
+==================================================================
+This repository contains an expository note presenting known results in a unified framework. The closed-form expression for tetrahedral numbers is classical, as is their cubic asymptotic growth. Presented is a geometric explanation of why the standard cube-root estimator, when floored, recovers the exact index of a given tetrahedral number. By examining the strict ordering between tetrahedral and cubic volumes — including the classical dissection of a cube into five tetrahedra with an incomplete sixth — and the triangular increments separating successive terms, an asymptotic convergence is observed arising from the strict positivity of the triangular increments and the vanishing relative size of their discrepancy as "n" grows, thereby guaranteeing that the floor operation yields the correct index.
+
